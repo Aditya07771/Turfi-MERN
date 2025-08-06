@@ -51,4 +51,86 @@
 ---
 
 #
-└── README.md
+└── README.md🛠️ Installation
+1. Clone the repository
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/turfi.git
+cd turfi
+2. Set up environment variables
+Create .env files in both client/ and server/ folders with the following:
+
+.env (Server)
+ini
+Copy
+Edit
+PORT=5000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+.env (Client)
+ini
+Copy
+Edit
+REACT_APP_CONTENTFUL_SPACE_ID=your_space_id
+REACT_APP_CONTENTFUL_ACCESS_TOKEN=your_access_token
+3. Install dependencies
+bash
+Copy
+Edit
+# Backend
+cd server
+npm install
+
+# Frontend
+cd ../client
+npm install
+4. Run the app
+bash
+Copy
+Edit
+# Start backend server
+cd server
+npm run dev
+
+# Start frontend
+cd ../client
+npm start
+✅ Completed Features
+✅ Real-time slot booking
+
+✅ Role-based authentication (User / Owner / Admin)
+
+✅ Admin dashboard for verification and moderation
+
+✅ Turf analytics and availability
+
+✅ Redux-based state management
+
+✅ Tailwind CSS for responsive UI
+
+✅ Contentful API integration for content management
+
+✅ Fully completed and tested 💯
+
+📢 Future Improvements
+🔗 Payment gateway integration (e.g., Razorpay, Stripe)
+
+🔔 Email & SMS notifications
+
+⭐ Turf reviews and ratings
+
+🗺️ Google Maps turf location
+
+🌐 Live Demo
+👉 Visit Live Site (Replace with your deployed URL)
+
+📄 License
+This project is licensed under the MIT License.
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to open issues or submit a pull request to help improve the project.
+
+👨‍💻 Developer
+Aditya Nishad
