@@ -49,35 +49,24 @@
 | **Admin**  | Verify owners, approve turf listings, manage access |
 
 ---
+# 🛠️ Installation
 
-#
-└── README.md🛠️ Installation
-1. Clone the repository
-bash
-Copy
-Edit
+## 1. Clone the Repository
+
+```bash
 git clone https://github.com/yourusername/turfi.git
 cd turfi
-2. Set up environment variables
-Create .env files in both client/ and server/ folders with the following:
 
-.env (Server)
-ini
-Copy
-Edit
+## 2. .env
 PORT=5000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-.env (Client)
-ini
-Copy
-Edit
+
 REACT_APP_CONTENTFUL_SPACE_ID=your_space_id
 REACT_APP_CONTENTFUL_ACCESS_TOKEN=your_access_token
-3. Install dependencies
-bash
-Copy
-Edit
+
+
+3. Install Dependencies
 # Backend
 cd server
 npm install
@@ -85,10 +74,8 @@ npm install
 # Frontend
 cd ../client
 npm install
-4. Run the app
-bash
-Copy
-Edit
+
+
 # Start backend server
 cd server
 npm run dev
@@ -122,8 +109,6 @@ npm start
 
 🗺️ Google Maps turf location
 
-🌐 Live Demo
-👉 Visit Live Site (Replace with your deployed URL)
 
 📄 License
 This project is licensed under the MIT License.
@@ -134,3 +119,4 @@ Feel free to open issues or submit a pull request to help improve the project.
 
 👨‍💻 Developer
 Aditya Nishad
+
