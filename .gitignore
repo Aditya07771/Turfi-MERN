@@ -1,0 +1,56 @@
+# =========================
+# Node modules (both client & server)
+# =========================
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# =========================
+# Build folders
+# =========================
+client/build/
+client/dist/
+server/build/
+server/dist/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+client/.env
+server/.env
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Coverage
+# =========================
+coverage/
+
+# =========================
+# Misc
+# =========================
+*.pid
+*.seed
+*.pid.lock
