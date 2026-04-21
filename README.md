@@ -2,21 +2,15 @@
 
 <br />
 
-<h1 style="font-size: clamp(3.5rem, 8vw, 7rem); line-height: 1; margin: 0; font-weight: 900;">
-  ⚽ TURFI
-</h1>
-
-<h3 style="font-size: clamp(1rem, 2vw, 1.5rem); margin-top: 0.75rem;">
-  Real-Time Sports Turf Discovery, Booking & Management Platform
-</h3>
+# ⚽ TURFI
+### Real-Time Sports Turf Discovery, Booking & Management Platform
 
 <br />
 
-<em>Discover. Book. Play.</em>
+*Discover. Book. Play.*
 
 <br />
 
-</div>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
