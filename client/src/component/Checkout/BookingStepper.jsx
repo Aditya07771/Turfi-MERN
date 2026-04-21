@@ -22,7 +22,7 @@ import LoginIcon from '@mui/icons-material/Login';
 import UserDetails from './UserDetails';
 import BookingSummary from './BookingSummary';
 import Payment from './Payment';
-import Confirmation from './confirmation';
+import Confirmation from './Confirmation';
 import Footer from '../Layouts/Footer';
 
 // Custom Connector for Stepper (keep existing styling)
