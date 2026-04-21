@@ -1,4 +1,4 @@
-# 🏟️ TURFI – Turf Booking System (MERN Stack)
+# 🏟️ TURFI – Real-Time Sports Turf Discovery, Booking & Management Platform (MERN Stack)
 
 **TURFI** is a full-stack turf booking application built using the **MERN stack**. It supports real-time slot booking, role-based login (User, Owner, Admin), turf verification, and a powerful admin dashboard. Designed with **Tailwind CSS** and managed using **Redux Toolkit**, TURFI also integrates **Contentful CMS** for content management.
 
